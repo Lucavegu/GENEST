@@ -1,4 +1,4 @@
-#!/usr/local/bin/Rscript
+#!bin/R
 
 #############################################
 # Modelos de Clasificación de Doble Entrada #
