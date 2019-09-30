@@ -4,6 +4,9 @@
 #   Apuntes Genética Estadística (75-93)    #
 #############################################
 
+#Ejecutar en R
+#!/usr/local/bin/Rscript
+
 # Limpiar el ambiente
 rm(list=ls())
 
