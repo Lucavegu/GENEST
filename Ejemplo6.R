@@ -1,11 +1,10 @@
+#!/usr/local/bin/Rscript
+
 #############################################
 # Modelos de Clasificación de Doble Entrada #
 #    Modelo de Clasificación Cruzada        #
 #   Apuntes Genética Estadística (75-93)    #
 #############################################
-
-#Ejecutar en R
-#!/usr/local/bin/Rscript
 
 # Limpiar el ambiente
 rm(list=ls())
